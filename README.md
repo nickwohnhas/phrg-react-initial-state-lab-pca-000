@@ -21,3 +21,4 @@ Take a moment to think about what a bomb does and how it works. Don't get all in
 
 ## Resources
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+<p data-visibility='hidden'>PHRG React Initial State Lab</p>
